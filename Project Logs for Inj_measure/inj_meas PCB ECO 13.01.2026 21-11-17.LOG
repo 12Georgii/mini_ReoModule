@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GNDA Pin=X2-2
+Removed Pin From Net: NetName=I2 Pin=X2-3
+Removed Pin From Net: NetName=U1 Pin=X2-4
+Removed Pin From Net: NetName=U2 Pin=X2-6
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP14
+Change Component Designator: OldDesignator=TP13 NewDesignator=TP12
+Change Component Designator: OldDesignator=TP14 NewDesignator=TP13
+Added Pin To Net: NetName=U1 Pin=X2-2
+Added Pin To Net: NetName=U2 Pin=X2-3
+Added Pin To Net: NetName=I2 Pin=X2-4
+Added Pin To Net: NetName=GNDA Pin=X2-6
+Added Member To Class: ClassName=inj_meas Member=Component R18 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R19 1k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R22 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R24 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R25 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R27 1k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R29 510 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R30 510 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R32 510 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R33 300 ±1%  0805
+Added Member To Class: ClassName=inj_meas Member=Component R35 3k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R37 0
+Added Member To Class: ClassName=inj_meas Member=Component R38 0
+Added Member To Class: ClassName=inj_meas Member=Component R40 1k ±1% 0805

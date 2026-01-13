@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=I2 Pin=X2-2
+Removed Pin From Net: NetName=U1 Pin=X2-3
+Removed Pin From Net: NetName=U2 Pin=X2-4
+Removed Pin From Net: NetName=GNDA Pin=X2-6
+Removed Pin From Net: NetName=GNDA Pin=X2-7
+Removed Pin From Net: NetName=GNDA Pin=X2-8
+Change Component Footprint: Designator=X2 Old Footprint=CON: 8PIN Molex Microfit 43045-0809 New Footprint=CON: 6pin Molex MicroFit 3.0 43045-0618
+Change Component Comment : Designator=X2 Old Comment=Micro-Fit 3.0 43045-0809 New Comment=Micro-Fit 3.0 43045-0618
+Change component parameters: Designator = "X2" ("X2"); Footprint = "CON: 8PIN Molex Microfit 43045-0809"; UniqueID = "\FCZUGVVS" ("\FCZUGVVS")
+Change component parameters (AddParameter): Name = "Code"; Value = "6319206231"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "ย่๋๊เ Micro-Fit 3.0 43045-0618, Molex"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GNDA Pin=X2-2
+Added Pin To Net: NetName=I2 Pin=X2-3
+Added Pin To Net: NetName=U1 Pin=X2-4
+Added Pin To Net: NetName=U2 Pin=X2-6
+Added Member To Class: ClassName=inj_meas Member=Component C3 6.8n 50V 0805 ฑ5%
+Added Member To Class: ClassName=inj_meas Member=Component C4 6.8n 50V 0805 ฑ5%
+Added Member To Class: ClassName=inj_meas Member=Component C7 6.8n 50V 0805 ฑ5%
+Added Member To Class: ClassName=inj_meas Member=Component C14 0.1u 50V 0805 ฑ10%
+Added Member To Class: ClassName=inj_meas Member=Component C16 0.01u 50V 0805 ฑ5%
+Added Member To Class: ClassName=inj_meas Member=Component C17 10u 50V 0805 ฑ10%
+Added Member To Class: ClassName=inj_meas Member=Component C18 10u 50V 0805 ฑ10%
+Added Member To Class: ClassName=inj_meas Member=Component C19 0.1u 50V 0805 ฑ10%
+Added Member To Class: ClassName=inj_meas Member=Component C20 0.1u 50V 0805 ฑ10%
+Added Member To Class: ClassName=inj_meas Member=Component C21 0.1u 50V 0805 ฑ10%
+Added Member To Class: ClassName=inj_meas Member=Component C22 6.8n 50V 0805 ฑ5%
+Added Member To Class: ClassName=inj_meas Member=Component DA2 AD8028
+Added Member To Class: ClassName=inj_meas Member=Component DA6 AMS 1117-3.3
+Added Member To Class: ClassName=inj_meas Member=Component DA7 LF398
+Added Member To Class: ClassName=inj_meas Member=Component R3 680 ฑ1% 0603
+Added Member To Class: ClassName=inj_meas Member=Component R6 680 ฑ1% 0603
+Added Member To Class: ClassName=inj_meas Member=Component R13 2k ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R15 2k ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R18 1k ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R19 3k ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R20 3k ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R22 0 ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R26 1k ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R28 510 ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R29 510 ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R30 510 ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R31 510 ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R33 3k ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R39 1k ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R40 300 ฑ1%  0805
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
