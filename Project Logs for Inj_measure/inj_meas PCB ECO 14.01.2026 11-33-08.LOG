@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GNDD Pin=X1-7
+Added Member To Class: ClassName=inj_meas Member=Component R1 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R3 2k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R4 680 ±1% 0603
+Added Member To Class: ClassName=inj_meas Member=Component R6 680 ±1% 0603
+Added Member To Class: ClassName=inj_meas Member=Component R8 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R9 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R11 1k ±1% 0603
+Added Member To Class: ClassName=inj_meas Member=Component R12 1k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R13 3k ±1% 0603
+Added Member To Class: ClassName=inj_meas Member=Component R15 1k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R17 2k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R18 200 ±1% 0603
+Added Member To Class: ClassName=inj_meas Member=Component R19 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R21 3k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R23 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R25 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R27 100R±1%  0805
+Added Member To Class: ClassName=inj_meas Member=Component R29 820k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R31 510 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R32 510 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R33 510 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R34 300 ±1%  0805
+Added Member To Class: ClassName=inj_meas Member=Component R36 3k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R38 0
+Added Member To Class: ClassName=inj_meas Member=Component R39 0
+Added Member To Class: ClassName=inj_meas Member=Component R41 1k ±1% 0805

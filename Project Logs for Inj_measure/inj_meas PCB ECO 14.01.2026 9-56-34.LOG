@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GNDA Pin=TP4-1
+Removed Pin From Net: NetName=GNDD Pin=TP6-1
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP4
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP13 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP14 NewDesignator=TP12

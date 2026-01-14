@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=X2 Old Footprint=CON: 6pin Molex MicroFit 3.0 43045-0618 New Footprint=CON: 6 pin Molex Micro-Fit
+Change Component Comment : Designator=X2 Old Comment=Micro-Fit 3.0 43045-0618 New Comment=Micro-Fit 3.0 43045-0612
+Added Member To Class: ClassName=inj_meas Member=Component TP9 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP10 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP12 Test point

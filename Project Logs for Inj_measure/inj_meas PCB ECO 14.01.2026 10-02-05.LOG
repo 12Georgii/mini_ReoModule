@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP12
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP13
+Added Component: Designator=TP9(Test Point)
+Added Pin To Net: NetName=NetC5_1 Pin=TP9-1
+Added Member To Class: ClassName=inj_meas Member=Component TP4 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP6 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP11 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP12 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP13 Test point
