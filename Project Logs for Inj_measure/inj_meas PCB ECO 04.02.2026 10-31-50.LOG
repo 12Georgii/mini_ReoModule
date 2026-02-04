@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=+5 Pin=C1-1
+Removed Pin From Net: NetName=+5 Pin=DD1-14
+Change Component Designator: OldDesignator=DA7 NewDesignator=DA8
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R42
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP12
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP13
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP14
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP15
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP16
+Added Component: Designator=DA7(IC: SOT 89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chipdip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/78l05-stabilizator-napryazheniya-5v-0.1a-sot-89-umw-9001231082"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "Микросхема питания 78L05, UMW"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(Test Point)
+Added Component: Designator=TP5(Test Point)
+Added Component: Designator=TP8(Test Point)
+Added Component: Designator=TP9(Test Point)
+Added Component: Designator=TP17(Test Point)
+Added Pin To Net: NetName=GNDA Pin=DA7-2
+Added Pin To Net: NetName=+5 Pin=DA7-3
+Added Pin To Net: NetName=NetC5_1 Pin=R27-1
+Added Pin To Net: NetName=NetDA7_11 Pin=R27-2
+Added Pin To Net: NetName=GNDA Pin=TP4-1
+Added Pin To Net: NetName=GNDD Pin=TP5-1
+Added Pin To Net: NetName=NetDA1_3 Pin=TP8-1
+Added Pin To Net: NetName=NetDA1_7 Pin=TP9-1
+Added Pin To Net: NetName=NetDA7_1 Pin=TP17-1
+Change Net Name : Old Net Name=NetDA7_1 New Net Name=NetDA8_1
+Change Net Name : Old Net Name=NetDA7_7 New Net Name=NetDA8_7
+Change Net Name : Old Net Name=NetDA7_11 New Net Name=SUM
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=+5V Pin=DA7-1
+Added Pin To Net: NetName=+5V Pin=DD1-14
+Added Net: Name=+5V
+Added Member To Class: ClassName=inj_meas Member=Component DA8 LF398
+Added Member To Class: ClassName=inj_meas Member=Component R43 300 ±1%  0805
+Added Member To Class: ClassName=inj_meas Member=Component TP13 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP14 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP15 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP16 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP17 Test point

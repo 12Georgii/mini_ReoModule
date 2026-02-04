@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=+5 Pin=X1-7
+Removed Pin From Net: NetName=GNDA Pin=X1-8
+Change Component Footprint: Designator=X1 Old Footprint=CON: 8PIN PLS-8 New Footprint=CON: 4pin PLS-4
+Change Component Comment : Designator=X1 Old Comment=PLS-8 New Comment=PLS-4
+Change Component Designator: OldDesignator=X2 NewDesignator=X3
+Change component parameters: Designator = "X1" ("X1"); Footprint = "CON: 8PIN PLS-8"; UniqueID = "\DJUYTFWB" ("\DJUYTFWB")
+Change component parameters (AddParameter): Name = "Code"; Value = "6313932041"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "ย่๋๊เ WF-4"; VariantName = "[No Variations]"
+Added Component: Designator=X2(CON: 2pin wf-2)
+Add component (AddParameter): Name = "Code"; Value = "6313952902"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "ย่๋๊เ WF-2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=X2-1
+Added Pin To Net: NetName=GNDA Pin=X2-2
+Added Member To Class: ClassName=inj_meas Member=Component DA7 78L05
+Added Member To Class: ClassName=inj_meas Member=Component R27 0 ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R29 1k ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R31 510 ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R32 510 ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R34 510 ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R35 300 ฑ1%  0805
+Added Member To Class: ClassName=inj_meas Member=Component R37 3k ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R39 0
+Added Member To Class: ClassName=inj_meas Member=Component R40 0
+Added Member To Class: ClassName=inj_meas Member=Component R42 1k ฑ1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component TP4 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP5 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP6 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP7 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP8 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP9 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP10 Test point
+Added Member To Class: ClassName=inj_meas Member=Component X3 Micro-Fit 3.0 43045-0612

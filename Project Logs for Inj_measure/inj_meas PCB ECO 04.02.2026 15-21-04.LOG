@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=GNDD Pin=TP5-1
+Removed Member From Class: ClassName=inj_meas Member=TP6
+Change Component Designator: OldDesignator=+5V NewDesignator=TP25
+Change Component Designator: OldDesignator=+12 NewDesignator=TP26
+Change Component Designator: OldDesignator=-12 NewDesignator=TP27
+Change Component Designator: OldDesignator=GND NewDesignator=TP16
+Change Component Designator: OldDesignator=GND NewDesignator=TP28
+Change Component Designator: OldDesignator=IN1 NewDesignator=TP1
+Change Component Designator: OldDesignator=IN2 NewDesignator=TP2
+Change Component Designator: OldDesignator=R33 NewDesignator=R35
+Change Component Designator: OldDesignator=R34 NewDesignator=R36
+Change Component Designator: OldDesignator=R35 NewDesignator=R37
+Change Component Designator: OldDesignator=R36 NewDesignator=R38
+Change Component Designator: OldDesignator=R37 NewDesignator=R39
+Change Component Designator: OldDesignator=R38 NewDesignator=R40
+Change Component Designator: OldDesignator=R39 NewDesignator=R41
+Change Component Designator: OldDesignator=R40 NewDesignator=R42
+Change Component Designator: OldDesignator=R41 NewDesignator=R43
+Change Component Designator: OldDesignator=R42 NewDesignator=R44
+Change Component Designator: OldDesignator=R43 NewDesignator=R45
+Change Component Designator: OldDesignator=SUM NewDesignator=TP6
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP14 NewDesignator=TP17
+Change Component Designator: OldDesignator=TP15 NewDesignator=TP18
+Change Component Designator: OldDesignator=TP16 NewDesignator=TP19
+Change Component Designator: OldDesignator=TP17 NewDesignator=TP20
+Change Component Designator: OldDesignator=TP18 NewDesignator=TP21
+Change Component Designator: OldDesignator=TP19 NewDesignator=TP22
+Change Component Designator: OldDesignator=TP20 NewDesignator=TP23
+Change Component Designator: OldDesignator=TP21 NewDesignator=TP24
+Added Component: Designator=L2(ÌÈÒ-12)
+Added Component: Designator=R33(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Ðåçèñòîð 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R34(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Ðåçèñòîð 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=TP12(Test Point)
+Added Component: Designator=TP13(Test Point)
+Added Component: Designator=TP14(Test Point)
+Added Component: Designator=TP15(Test Point)
+Added Pin To Net: NetName=NetDA1_7 Pin=L2-1
+Added Pin To Net: NetName=GNDA Pin=L2-3
+Added Pin To Net: NetName=NetDA1_3 Pin=L2-4
+Added Pin To Net: NetName=GNDA Pin=L2-6
+Added Pin To Net: NetName=I1 Pin=R33-2
+Added Pin To Net: NetName=I2 Pin=R34-2
+Added Pin To Net: NetName=NetDA1_3 Pin=TP12-1
+Added Pin To Net: NetName=NetDA1_7 Pin=TP13-1
+Added Pin To Net: NetName=I1 Pin=TP14-1
+Added Pin To Net: NetName=I2 Pin=TP15-1
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=R33-1
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetL2_5 Pin=L2-5
+Added Pin To Net: NetName=NetL2_5 Pin=R34-1
+Added Net: Name=NetL2_5
+Added Member To Class: ClassName=inj_meas Member=Component L2 ÌÈÒ-12
+Added Member To Class: ClassName=inj_meas Member=Component R44 1k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R45 300 ±1%  0805
+Added Member To Class: ClassName=inj_meas Member=Component TP12 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP13 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP14 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP16 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP17 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP22 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP23 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP24 Test point

@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=+3.3 Pin=+3.3-1
+Removed Pin From Net: NetName=U_H Pin=TP3-1
+Removed Pin From Net: NetName=U_H Pin=X1-3
+Removed Pin From Net: NetName=OFF ADJ Pin=X1-4
+Removed Member From Class: ClassName=inj_meas Member=+3.3
+Change Component Designator: OldDesignator=TP1 NewDesignator=TP2
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP4
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP12
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP13
+Change Component Designator: OldDesignator=TP13 NewDesignator=TP14
+Change Component Designator: OldDesignator=TP14 NewDesignator=TP15
+Change Component Designator: OldDesignator=TP15 NewDesignator=TP16
+Change Component Designator: OldDesignator=TP16 NewDesignator=TP17
+Change Component Designator: OldDesignator=TP17 NewDesignator=TP18
+Change Component Designator: OldDesignator=TP18 NewDesignator=TP19
+Change Component Designator: OldDesignator=TP19 NewDesignator=TP20
+Change Component Designator: OldDesignator=TP20 NewDesignator=TP21
+Change Component Designator: OldDesignator=TP21 NewDesignator=TP22
+Change Component Designator: OldDesignator=TP22 NewDesignator=TP23
+Change Component Designator: OldDesignator=TP23 NewDesignator=TP24
+Added Component: Designator=TP1(Test Point)
+Added Pin To Net: NetName=U_H Pin=TP1-1
+Added Pin To Net: NetName=OFF ADJ Pin=TP4-1
+Added Pin To Net: NetName=OFF ADJ Pin=X1-3
+Added Pin To Net: NetName=U_H Pin=X1-4
+Added Member To Class: ClassName=inj_meas Member=Component R33 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R34 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R36 510 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R37 300 ±1%  0805
+Added Member To Class: ClassName=inj_meas Member=Component R38 3k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R39 3k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R40 3k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R41 0
+Added Member To Class: ClassName=inj_meas Member=Component TP5 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP8 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP12 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP14 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP15 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP16 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP17 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP20 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP24 Test point
