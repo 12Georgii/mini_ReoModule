@@ -2,6 +2,57 @@
 FileName = inj_meas.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Layer
+      File : inj_meas.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : inj_meas.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : inj_meas.GBS
 
@@ -25,6 +76,46 @@ Used DCodes :
     D35
     D36
     D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : inj_meas.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : inj_meas.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
 *************************************************************
 
 *************************************************************
@@ -66,94 +157,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : inj_meas.GBO
+Generating : Keep-Out Layer
+      File : inj_meas.GKO
 
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : inj_meas.GTO
-
-    Adding Layer      : Top Overlay
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
+    D64
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : inj_meas.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+Generating : Profile
+      File : inj_meas.GM
 
 
 Used DCodes :
-    D12
-    D13
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : inj_meas.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
+    D65
 *************************************************************
 
