@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\ALT_PROJ\Injection_measurment\Inj_measure\inj_meas.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=inj_meas-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=inj_meas-nonplated.txt|DrillLayers=gtl,gbl

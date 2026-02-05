@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\ALT_PROJ\Injection_measurment\Inj_measure\inj_meas.PcbDoc
-Date     : 04.02.2026
-Time     : 16:51:47
+Date     : 05.02.2026
+Time     : 12:17:06
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (InNet('No Net')),(InNet('No Net'))
 Rule Violations :0
@@ -114,4 +114,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:03

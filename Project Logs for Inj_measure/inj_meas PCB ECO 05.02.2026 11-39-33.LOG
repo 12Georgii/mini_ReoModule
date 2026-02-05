@@ -1,0 +1,34 @@
+Change Component Footprint: Designator=X3 Old Footprint=CON: 6 pin Molex Micro-Fit New Footprint=Molex Microfit 6pin
+Change Component Comment : Designator=X3 Old Comment=Micro-Fit 3.0 43045-0612 New Comment=Microfit 3.0 43045-0623
+Change Component Designator: OldDesignator=TP1 NewDesignator=OUT
+Change Component Designator: OldDesignator=TP2 NewDesignator=IN1
+Change Component Designator: OldDesignator=TP3 NewDesignator=IN2
+Change Component Designator: OldDesignator=TP5 NewDesignator=GND
+Change Component Designator: OldDesignator=TP8 NewDesignator=I1
+Change Component Designator: OldDesignator=TP9 NewDesignator=I2
+Change Component Designator: OldDesignator=TP11 NewDesignator=SUM
+Change Component Designator: OldDesignator=TP12 NewDesignator=SUM
+Change Component Designator: OldDesignator=TP13 NewDesignator=I1_MIT
+Change Component Designator: OldDesignator=TP14 NewDesignator=I2_MIT
+Change Component Designator: OldDesignator=TP17 NewDesignator=GND
+Change Component Designator: OldDesignator=TP26 NewDesignator=+12
+Change Component Designator: OldDesignator=TP27 NewDesignator=-12
+Change Component Designator: OldDesignator=TP28 NewDesignator=GNDA
+Change component parameters: Designator = "X3" ("X3"); Footprint = "CON: 6 pin Molex Micro-Fit"; UniqueID = "\CAZNYVIX" ("\CAZNYVIX")
+Added Component: Designator=+5(Test Point)
+Added Pin To Net: NetName=+5 Pin=+5-1
+Added Member To Class: ClassName=inj_meas Member=Component +5 Test point
+Added Member To Class: ClassName=inj_meas Member=Component GND Test point
+Added Member To Class: ClassName=inj_meas Member=Component I1_MIT Test point
+Added Member To Class: ClassName=inj_meas Member=Component I2_MIT Test point
+Added Member To Class: ClassName=inj_meas Member=Component I2 Test point
+Added Member To Class: ClassName=inj_meas Member=Component IN2 Test point
+Added Member To Class: ClassName=inj_meas Member=Component OUT Test point
+Added Member To Class: ClassName=inj_meas Member=Component SUM Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP6 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP7 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP10 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP16 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP18 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP20 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP23 Test point

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [inj_meas.PcbDoc]
+   Generated File[inj_meas-Plated.TXT]
+   Generated File[inj_meas-NonPlated.TXT]
+   Generated File[inj_meas.LDP]
+   Generated File[inj_meas.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:33:37 On 05.02.2026
