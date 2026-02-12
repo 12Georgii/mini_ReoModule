@@ -1,0 +1,213 @@
+Removed Pin From Net: NetName=NetDA2_1 Pin=DA2-1
+Removed Pin From Net: NetName=NetDA2_3 Pin=DA2-3
+Removed Pin From Net: NetName=NetC5_1 Pin=R16-2
+Change Component Designator: OldDesignator=+5 NewDesignator=+1
+Change Component Designator: OldDesignator=+12 NewDesignator=+2
+Change Component Designator: OldDesignator=-12 NewDesignator=-1
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C7
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Change Component Designator: OldDesignator=C7 NewDesignator=C9
+Change Component Designator: OldDesignator=C8 NewDesignator=C10
+Change Component Designator: OldDesignator=C9 NewDesignator=C11
+Change Component Designator: OldDesignator=C10 NewDesignator=C12
+Change Component Designator: OldDesignator=C11 NewDesignator=C13
+Change Component Designator: OldDesignator=C12 NewDesignator=C15
+Change Component Designator: OldDesignator=C13 NewDesignator=C16
+Change Component Designator: OldDesignator=C14 NewDesignator=C17
+Change Component Designator: OldDesignator=C15 NewDesignator=C18
+Change Component Designator: OldDesignator=C16 NewDesignator=C20
+Change Component Designator: OldDesignator=C17 NewDesignator=C21
+Change Component Designator: OldDesignator=C18 NewDesignator=C22
+Change Component Designator: OldDesignator=C19 NewDesignator=C25
+Change Component Designator: OldDesignator=C20 NewDesignator=C23
+Change Component Designator: OldDesignator=C21 NewDesignator=C24
+Change Component Designator: OldDesignator=C22 NewDesignator=C26
+Change Component Designator: OldDesignator=DA1 NewDesignator=DA2
+Change Component Designator: OldDesignator=DA2 NewDesignator=DA3
+Change Component Designator: OldDesignator=DA3 NewDesignator=DA4
+Change Component Designator: OldDesignator=DA4 NewDesignator=DA5
+Change Component Designator: OldDesignator=DA5 NewDesignator=DA7
+Change Component Designator: OldDesignator=DA6 NewDesignator=DA8
+Change Component Designator: OldDesignator=DA7 NewDesignator=DA9
+Change Component Designator: OldDesignator=DA8 NewDesignator=DA6
+Change Component Designator: OldDesignator=GND NewDesignator=GND1
+Change Component Designator: OldDesignator=GND NewDesignator=GND2
+Change Component Designator: OldDesignator=GND NewDesignator=GNDA1
+Change Component Designator: OldDesignator=OUT NewDesignator=OUT1
+Change Component Designator: OldDesignator=R2 NewDesignator=R14
+Change Component Designator: OldDesignator=R3 NewDesignator=R16
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R19
+Change Component Designator: OldDesignator=R13 NewDesignator=R10
+Change Component Designator: OldDesignator=R14 NewDesignator=R20
+Change Component Designator: OldDesignator=R15 NewDesignator=R21
+Change Component Designator: OldDesignator=R16 NewDesignator=R22
+Change Component Designator: OldDesignator=R17 NewDesignator=R23
+Change Component Designator: OldDesignator=R18 NewDesignator=R12
+Change Component Designator: OldDesignator=R19 NewDesignator=R24
+Change Component Designator: OldDesignator=R20 NewDesignator=R15
+Change Component Designator: OldDesignator=R21 NewDesignator=R26
+Change Component Designator: OldDesignator=R22 NewDesignator=R31
+Change Component Designator: OldDesignator=R23 NewDesignator=R27
+Change Component Designator: OldDesignator=R24 NewDesignator=R28
+Change Component Designator: OldDesignator=R25 NewDesignator=R29
+Change Component Designator: OldDesignator=R26 NewDesignator=R30
+Change Component Designator: OldDesignator=R27 NewDesignator=R18
+Change Component Designator: OldDesignator=R28 NewDesignator=R33
+Change Component Designator: OldDesignator=R29 NewDesignator=R34
+Change Component Designator: OldDesignator=R30 NewDesignator=R35
+Change Component Designator: OldDesignator=R31 NewDesignator=R36
+Change Component Designator: OldDesignator=R32 NewDesignator=R37
+Change Component Designator: OldDesignator=R33 NewDesignator=R38
+Change Component Designator: OldDesignator=R34 NewDesignator=R39
+Change Component Designator: OldDesignator=R35 NewDesignator=R40
+Change Component Designator: OldDesignator=R36 NewDesignator=R41
+Change Component Designator: OldDesignator=R37 NewDesignator=R42
+Change Component Designator: OldDesignator=R38 NewDesignator=R43
+Change Component Designator: OldDesignator=R39 NewDesignator=R44
+Change Component Designator: OldDesignator=R40 NewDesignator=R45
+Change Component Designator: OldDesignator=R41 NewDesignator=R46
+Change Component Designator: OldDesignator=R42 NewDesignator=R47
+Change Component Designator: OldDesignator=R43 NewDesignator=R48
+Change Component Designator: OldDesignator=R44 NewDesignator=R49
+Change Component Designator: OldDesignator=R45 NewDesignator=R50
+Change Component Designator: OldDesignator=SUM NewDesignator=SUM1
+Change Component Designator: OldDesignator=SUM NewDesignator=SUM2
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP1
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP2
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP4
+Change Component Designator: OldDesignator=TP15 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP16 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP19 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP20 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP22 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP23 NewDesignator=TP12
+Change Component Designator: OldDesignator=TP24 NewDesignator=TP13
+Change Component Designator: OldDesignator=TP25 NewDesignator=TP14
+Added Component: Designator=C5(CAP: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279259841"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,047uF +-10% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279351741"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор NP0 50V 51pF±5% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279254871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF ±10% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279254871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF ±10% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(IC: SOIC 8)
+Added Component: Designator=I3(Test Point)
+Added Component: Designator=I4(Test Point)
+Added Component: Designator=R11(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094357441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 7,5k±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094354057"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 51K±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6020004221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор RC0603JR-070RL, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=TP7(Test Point)
+Added Component: Designator=TP10(Test Point)
+Added Pin To Net: NetName=NetDA1_7 Pin=C5-1
+Added Pin To Net: NetName=NetDA1_3 Pin=C5-2
+Added Pin To Net: NetName=NetDA1_7 Pin=C6-1
+Added Pin To Net: NetName=NetDA1_3 Pin=C6-2
+Added Pin To Net: NetName=GNDA Pin=C14-1
+Added Pin To Net: NetName=-12 Pin=C14-2
+Added Pin To Net: NetName=GNDA Pin=C19-1
+Added Pin To Net: NetName=+12 Pin=C19-2
+Added Pin To Net: NetName=NetDA2_1 Pin=DA1-1
+Added Pin To Net: NetName=NetDA2_3 Pin=DA1-3
+Added Pin To Net: NetName=-12 Pin=DA1-4
+Added Pin To Net: NetName=NetC5_1 Pin=DA1-5
+Added Pin To Net: NetName=+12 Pin=DA1-8
+Added Pin To Net: NetName=NetDA1_3 Pin=DA3-1
+Added Pin To Net: NetName=GNDA Pin=DA3-3
+Added Pin To Net: NetName=NetDA1_3 Pin=I3-1
+Added Pin To Net: NetName=NetDA1_7 Pin=I4-1
+Added Pin To Net: NetName=GNDA Pin=R13-1
+Added Pin To Net: NetName=NetC5_1 Pin=R17-2
+Added Pin To Net: NetName=NetDA1_7 Pin=R25-1
+Added Pin To Net: NetName=NetDA1_7 Pin=R32-1
+Added Pin To Net: NetName=I1 Pin=TP7-1
+Added Pin To Net: NetName=I2 Pin=TP10-1
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetC16_1 New Net Name=NetC20_1
+Change Net Name : Old Net Name=NetDA1_1 New Net Name=NetDA2_1
+Change Net Name : Old Net Name=NetDA1_3 New Net Name=I_2
+Change Net Name : Old Net Name=NetDA1_6 New Net Name=NetDA2_6
+Change Net Name : Old Net Name=NetDA1_7 New Net Name=I_1
+Change Net Name : Old Net Name=NetDA2_1 New Net Name=NetDA1_1
+Change Net Name : Old Net Name=NetDA2_3 New Net Name=NetDA1_3
+Change Net Name : Old Net Name=NetDA2_5 New Net Name=NetDA3_5
+Change Net Name : Old Net Name=NetDA2_6 New Net Name=NetDA3_6
+Change Net Name : Old Net Name=NetDA2_7 New Net Name=NetDA3_7
+Change Net Name : Old Net Name=NetDA3_1 New Net Name=NetDA4_1
+Change Net Name : Old Net Name=NetDA3_2 New Net Name=NetDA4_2
+Change Net Name : Old Net Name=NetDA3_6 New Net Name=NetDA4_6
+Change Net Name : Old Net Name=NetDA3_7 New Net Name=NetDA4_7
+Change Net Name : Old Net Name=NetDA4_1 New Net Name=NetDA5_1
+Change Net Name : Old Net Name=NetDA4_2 New Net Name=NetDA5_2
+Change Net Name : Old Net Name=NetDA4_3 New Net Name=NetDA5_3
+Change Net Name : Old Net Name=NetDA4_6 New Net Name=NetDA5_6
+Change Net Name : Old Net Name=NetDA8_1 New Net Name=NetDA6_1
+Change Net Name : Old Net Name=NetDA8_7 New Net Name=NetDA6_7
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR6_1
+Added Pin To Net: NetName=NetDA1_2 Pin=DA1-2
+Added Pin To Net: NetName=NetDA1_2 Pin=R8-2
+Added Pin To Net: NetName=NetDA1_2 Pin=R10-1
+Added Net: Name=NetDA1_2
+Added Pin To Net: NetName=NetDA1_6 Pin=DA1-6
+Added Pin To Net: NetName=NetDA1_6 Pin=R11-2
+Added Pin To Net: NetName=NetDA1_6 Pin=R13-2
+Added Net: Name=NetDA1_6
+Added Pin To Net: NetName=NetDA1_7 Pin=DA1-7
+Added Pin To Net: NetName=NetDA1_7 Pin=DA3-2
+Added Pin To Net: NetName=NetDA1_7 Pin=R11-1
+Added Pin To Net: NetName=NetDA1_7 Pin=R17-1
+Added Pin To Net: NetName=NetDA1_7 Pin=R22-2
+Added Pin To Net: NetName=NetDA1_7 Pin=R25-2
+Added Pin To Net: NetName=NetDA1_7 Pin=R32-2
+Added Net: Name=NetDA1_7
+Added Member To Class: ClassName=inj_meas Member=Component C23 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=inj_meas Member=Component C24 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=inj_meas Member=Component C25 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=inj_meas Member=Component C26 6.8n 50V 0805 ±5%
+Added Member To Class: ClassName=inj_meas Member=Component DA9 78L05
+Added Member To Class: ClassName=inj_meas Member=Component GND2 Test point
+Added Member To Class: ClassName=inj_meas Member=Component GNDA1 Test point
+Added Member To Class: ClassName=inj_meas Member=Component I3 Test point
+Added Member To Class: ClassName=inj_meas Member=Component I4 Test point
+Added Member To Class: ClassName=inj_meas Member=Component L2 МИТ-12
+Added Member To Class: ClassName=inj_meas Member=Component R46 0
+Added Member To Class: ClassName=inj_meas Member=Component R47 0
+Added Member To Class: ClassName=inj_meas Member=Component R48 1k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R49 1k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R50 300 ±1%  0805
+Added Member To Class: ClassName=inj_meas Member=Component SUM2 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP7 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP10 Test point
