@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetDA1_7 Pin=DA1-7
+Removed Pin From Net: NetName=NetDA1_7 Pin=R11-1
+Removed Pin From Net: NetName=NetDA1_7 Pin=R17-1
+Removed Pin From Net: NetName=NetDA1_7 Pin=R22-2
+Change Component Designator: OldDesignator=+5 NewDesignator=+1
+Added Component: Designator=R51(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=R52(RES: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6094342239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 0R ±1% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=TP7(Test Point)
+Added Component: Designator=TP10(Test Point)
+Added Pin To Net: NetName=NetDA1_7 Pin=R52-2
+Added Pin To Net: NetName=I1 Pin=TP7-1
+Added Pin To Net: NetName=I2 Pin=TP10-1
+Change Net Name : Old Net Name=NetDA1_7 New Net Name=NetDA3_2
+Added Pin To Net: NetName=NetDA1_7 Pin=DA1-7
+Added Pin To Net: NetName=NetDA1_7 Pin=R11-1
+Added Pin To Net: NetName=NetDA1_7 Pin=R51-2
+Added Net: Name=NetDA1_7
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=R22-2
+Added Pin To Net: NetName=NetR17_1 Pin=R51-1
+Added Pin To Net: NetName=NetR17_1 Pin=R52-1
+Added Net: Name=NetR17_1
+Added Member To Class: ClassName=inj_meas Member=Component R51 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R52 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component TP7 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP10 Test point

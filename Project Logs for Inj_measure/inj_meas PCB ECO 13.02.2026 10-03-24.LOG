@@ -1,0 +1,68 @@
+Change Component Designator: OldDesignator=+5 NewDesignator=+1
+Added Component: Designator=DA10(SIP-6)
+Add component (AddParameter): Name = "Code"; Value = "6339113551"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Ìèêðîñõåìà AM2D-0512DZ, AIMTEC"; VariantName = "[No Variations]"
+Added Component: Designator=TP7(Test Point)
+Added Component: Designator=TP10(Test Point)
+Added Pin To Net: NetName=+5 Pin=DA10-1
+Added Pin To Net: NetName=GNDA Pin=DA10-2
+Added Pin To Net: NetName=-12 Pin=DA10-4
+Added Pin To Net: NetName=GNDA Pin=DA10-5
+Added Pin To Net: NetName=+12 Pin=DA10-6
+Added Pin To Net: NetName=I1 Pin=TP7-1
+Added Pin To Net: NetName=I2 Pin=TP10-1
+Added Member To Class: ClassName=inj_meas Member=Component C2 6.8n 50V 0805 ±5%
+Added Member To Class: ClassName=inj_meas Member=Component C5 47p 50V 0603 ±10%
+Added Member To Class: ClassName=inj_meas Member=Component C6 51p 50V 0805 ±5%
+Added Member To Class: ClassName=inj_meas Member=Component C7 6.8n 50V 0805 ±5%
+Added Member To Class: ClassName=inj_meas Member=Component C8 6.8n 50V 0805 ±5%
+Added Member To Class: ClassName=inj_meas Member=Component C9 6.8n 50V 0805 ±5%
+Added Member To Class: ClassName=inj_meas Member=Component C10 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=inj_meas Member=Component C11 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=inj_meas Member=Component C12 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=inj_meas Member=Component C14 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=inj_meas Member=Component C16 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=inj_meas Member=Component C17 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=inj_meas Member=Component C18 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=inj_meas Member=Component C19 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=inj_meas Member=Component C20 0.01u 50V 0805 ±5%
+Added Member To Class: ClassName=inj_meas Member=Component C22 10u 50V 0805 ±10%
+Added Member To Class: ClassName=inj_meas Member=Component DA1 AD8028
+Added Member To Class: ClassName=inj_meas Member=Component DA3 AD8028
+Added Member To Class: ClassName=inj_meas Member=Component DA4 AD8028
+Added Member To Class: ClassName=inj_meas Member=Component DA5 AD8028
+Added Member To Class: ClassName=inj_meas Member=Component DA7 DPU01L-12
+Added Member To Class: ClassName=inj_meas Member=Component DA8 AMS 1117-3.3
+Added Member To Class: ClassName=inj_meas Member=Component DA10 DPU01L-12
+Added Member To Class: ClassName=inj_meas Member=Component R3 680 ±1% 0603
+Added Member To Class: ClassName=inj_meas Member=Component R8 1k ±1% 0603
+Added Member To Class: ClassName=inj_meas Member=Component R11 7.5k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R13 51 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R14 2k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R16 2k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R17 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R19 1k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R20 2k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R21 1k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R23 2k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R24 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R25 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R26 3k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R27 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R28 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R29 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R30 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R31 3k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R32 0 ±5% 0603
+Added Member To Class: ClassName=inj_meas Member=Component R34 1k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R35 820k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R36 510 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R38 0 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R40 510 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R41 510 ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R42 300 ±1%  0805
+Added Member To Class: ClassName=inj_meas Member=Component R43 3k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component R44 3k ±1% 0805
+Added Member To Class: ClassName=inj_meas Member=Component TP4 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP7 Test point
+Added Member To Class: ClassName=inj_meas Member=Component TP10 Test point
